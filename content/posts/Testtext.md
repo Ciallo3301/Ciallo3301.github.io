@@ -19,5 +19,6 @@ int main() {
 }
 ```
 这是我的Github主页：https://github.com/Ciallo3301。
-放一个腼腆老二在这，不许做坏事：
-![老二](/images/3aa3f66f3ba161a20a6eef1cd5e5cc9e.jpg)
+
+放个紬紬在这，也是我的github头像：
+![老二](/images/OIP-C.png)
