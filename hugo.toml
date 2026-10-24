@@ -2,3 +2,14 @@ baseURL = 'https://Ciallo3301.github.io/Ciallo3301.github.io/'
 languageCode = 'zh-cn'
 title =  "ShinaMon's blog"
 theme = "PaperMod"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 20
